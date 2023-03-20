@@ -2,7 +2,7 @@
 program pengulangan baca buku menggunakan for
 """
 
-jumlah_buku = 26
+jumlah_buku = 45
 print('Ibu berkata, "Baca semua bukumu"')
 
 jumlah_buku_yang_sudah_dibaca = 0
