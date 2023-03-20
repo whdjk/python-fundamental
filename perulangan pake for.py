@@ -1,5 +1,5 @@
 """
-program pengulangan baca buku
+program pengulangan baca buku menggunakan for
 """
 
 jumlah_buku = 26
